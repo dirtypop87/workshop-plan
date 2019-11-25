@@ -10,3 +10,4 @@ git show ## commit
 
 git rm ## local and git both removed
 git push 
+modified on github
