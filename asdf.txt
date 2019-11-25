@@ -3,3 +3,5 @@ git config --global user.email "mudblood.ev@gmail.com"
 git clone https://github.com/dirtypop87/workshop-plan.git
 git status
 git add asdf.txt
+git commit -m "blahblah"
+git log
