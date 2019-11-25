@@ -7,3 +7,5 @@ git commit -m "blahblah"
 git log
 git diff ## local diff
 git show ## commit
+
+git rm ## local and git both removed
