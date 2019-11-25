@@ -5,3 +5,4 @@ git status
 git add asdf.txt
 git commit -m "blahblah"
 git log
+git diff
